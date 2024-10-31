@@ -1,0 +1,16 @@
+#njl-sd-results-container {
+    display: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+
+#njl-sd-container .active {
+    font-weight: bold;
+}
+
+
+ .navbar {
+ margin-bottom: 9px;
+}
